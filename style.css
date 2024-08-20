@@ -76,9 +76,23 @@ form button:hover {
 
 .input-group span {
     color: red;
+    font-size: 14px;
+    position: initial;
+    
 }
 
+span {
+    color: red;
+    overflow: hidden;
+    
 
+    
+}
+
+i {
+    color: green;
+    font-size: 1.2rem;
+}
 
 
 
